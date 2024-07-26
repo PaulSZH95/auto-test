@@ -1,0 +1,7 @@
+anthropic==0.31.0
+rich==3.7.1
+openai==1.35.13
+# code formatter optional start
+# flake8==7.1.0
+# black==24.4.2
+# code formatter optional endß

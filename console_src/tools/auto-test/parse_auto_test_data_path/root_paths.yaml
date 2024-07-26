@@ -1,0 +1,7 @@
+auto_test_data_folder: ./data
+folders_in_atd:
+- attribute
+- conversation
+- detect
+- issues
+- simulate
